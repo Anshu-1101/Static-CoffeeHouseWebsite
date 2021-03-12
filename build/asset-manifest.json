@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9e42d5e8.chunk.js",
+    "main.js.map": "/static/js/main.9e42d5e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a87772d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a87772d2.js.map",
+    "static/js/2.225fa2df.chunk.js": "/static/js/2.225fa2df.chunk.js",
+    "static/js/2.225fa2df.chunk.js.map": "/static/js/2.225fa2df.chunk.js.map",
+    "static/js/3.9515672b.chunk.js": "/static/js/3.9515672b.chunk.js",
+    "static/js/3.9515672b.chunk.js.map": "/static/js/3.9515672b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.225fa2df.chunk.js.LICENSE.txt": "/static/js/2.225fa2df.chunk.js.LICENSE.txt",
+    "static/media/Americano.876dd20e.jpg": "/static/media/Americano.876dd20e.jpg",
+    "static/media/Espresso.95f3df8b.png": "/static/media/Espresso.95f3df8b.png",
+    "static/media/choco-berry.4ca07699.jpg": "/static/media/choco-berry.4ca07699.jpg",
+    "static/media/cold-coffee.afe158a6.jpg": "/static/media/cold-coffee.afe158a6.jpg",
+    "static/media/front.3714f128.jpg": "/static/media/front.3714f128.jpg",
+    "static/media/shawshake.82196c0a.jpg": "/static/media/shawshake.82196c0a.jpg",
+    "static/media/todays_special.97f18293.jpg": "/static/media/todays_special.97f18293.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a87772d2.js",
+    "static/js/2.225fa2df.chunk.js",
+    "static/js/main.9e42d5e8.chunk.js"
+  ]
+}
